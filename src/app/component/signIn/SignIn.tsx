@@ -14,8 +14,11 @@ export default function SignIn() {
       <div className="w-full md:w-1/2 flex flex-col items-center justify-center p-6">
         <div className="max-w-md w-full">
           <div className="flex flex-col items-center">
-            <div className="bg-gradient-to-r from-blue-400 to-teal-500 text-white rounded-full p-2 mb-4">
-              <span className="text-4xl">😊</span>
+            <div className=" text-white rounded-full p-2 mb-4">
+          
+               <img src="/signIn/idesk_sm.png" alt="" width='60px'/>
+
+
             </div>
             <h2 className="text-2xl font-bold">Welcome to iDesk360</h2>
             <p className="text-gray-500 mb-6">More than a business tool</p>
